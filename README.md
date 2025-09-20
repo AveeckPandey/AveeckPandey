@@ -1,6 +1,6 @@
 <!-- Banner / Logo -->
 <p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/AveeckPandey/AveeckPandey/main/profile.png">
+ https://raw.githubusercontent.com/AveeckPandey/AveeckPandey/main/profile.png
 </p>
 
 <!-- Typing Animation -->
