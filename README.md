@@ -1,77 +1,118 @@
-<!-- Banner / Logo -->
-<p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/AveeckPandey/AveeckPandey/main/profile.png">
-</p>
+<!-- Option 1: Animated SVG Banner (Recommended) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aveeck%20Pandey&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32&desc=Passionate%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
+</div>
 
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+Fellow+%3CDevelopers%2F%3E!;I'm+Aveeck+Pandey;A+Passionate+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
-</h1>
+<!-- Option 2: Simple but Elegant Banner Alternative -->
+<!-- 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Aveeck+Pandey+👋;Passionate+Developer+💻;Open+Source+Enthusiast+🚀;Always+Learning+New+Things+📚" alt="Typing SVG" />
+</div>
+-->
 
-<!-- Profile Views + Followers -->
+<!-- Profile Views + Social -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AveeckPandey&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AveeckPandey&label=Profile%20Views&color=00A8FF&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/AveeckPandey?tab=followers">
-    <img src="https://img.shields.io/github/followers/AveeckPandey?label=Followers&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/AveeckPandey?label=Followers&style=for-the-badge&color=00A8FF&labelColor=black" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/AveeckPandey">
+    <img src="https://img.shields.io/github/stars/AveeckPandey?label=Stars&style=for-the-badge&color=00A8FF&labelColor=black" alt="GitHub Stars">
   </a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
 ---
 
 ## 👨‍💻 About Me  
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 - 🔭 Currently working on **React Native Projects**  
 - 🌱 Learning **Git & Open Source Contributions**  
 - 👯 Open to collaborate on **Hackathons & Open Source**  
 - 💬 Ask me about **SQL, React, JavaScript**  
 - ⚡ Fun fact: *I love sunflowers 🌻*  
+- 📫 Reach me: **your.email@example.com**
+
+<br clear="both"/>
 
 ---
 
-## 🚀 Skills  
-<p align="left">
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" title="Python"/>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" title="React"/>
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg" title="Next"/>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" title="JavaScript"/>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg" title="SQLite"/>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" title="C++"/>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" title="Java"/>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" title="HTML"/>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" title="CSS"/>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pandas.svg" title="Pandas"/>
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/Numpy.svg" title="Numpy"/>
-</p>
+## 🚀 Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Database & Tools
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
 
 ---
 
 ## 🏆 Achievements  
-[![An image of @aveeck_pandey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aveeck_pandey)](https://holopin.io/@aveeck_pandey)
+<div align="center">
+  <a href="https://holopin.io/@aveeck_pandey">
+    <img src="https://holopin.me/aveeck_pandey" alt="Holopin Badge Board">
+  </a>
+</div>
 
 ---
 
-## 🤝 Connect With Me  
-<a href="https://www.linkedin.com/in/aveeck-pandey"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
-<a href="https://twitter.com/"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a>
-<a href="https://medium.com/"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a>
-<a href="https://github.com/AveeckPandey"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aveeck-pandey)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AveeckPandey)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics
+
+<div align="center">
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=AveeckPandey&show_icons=true&theme=tokyonight" alt="Aveeck's GitHub Stats"></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AveeckPandey&theme=tokyonight" alt="Aveeck's GitHub Streak"></td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=AveeckPandey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&icon_color=00A8FF&text_color=ffffff" width="100%"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AveeckPandey&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A8FF&ring=00A8FF&fire=00A8FF&currStreakLabel=00A8FF" width="100%"/>
+</td>
 </tr>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveeckPandey&theme=tokyonight" alt="Top Languages"></td>
-<td><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></td>
+<td colspan="2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveeckPandey&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A8FF&text_color=ffffff&layout=compact" width="100%"/>
+</td>
 </tr>
 </table>
+</div>
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 GitHub Contribution Snake
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AveeckPandey/AveeckPandey/output/github-snake-dark.svg" />
@@ -82,4 +123,19 @@
 
 ---
 
-✨ *Last Updated on: 20/09/2025*
+## 💡 Random Dev Quote
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+  <i>✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨</i>
+  <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AveeckPandey.AveeckPandey&left_color=black&right_color=00A8FF&left_text=Thanks%20for%20visiting!" />
+</div>
