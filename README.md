@@ -1,6 +1,6 @@
 <!-- Banner / Logo -->
 <p align="center">
-  <img width="200" src="https://github.com/AveeckPandey/blob/main/profile.png">
+  <img width="200" src="https://raw.githubusercontent.com/AveeckPandey/AveeckPandey/main/profile.png">
 </p>
 
 <!-- Typing Animation -->
@@ -10,9 +10,9 @@
 
 <!-- Profile Views + Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AveeckP&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/AveeckP?tab=followers">
-    <img src="https://img.shields.io/github/followers/AveeckP?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=AveeckPandey&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/AveeckPandey?tab=followers">
+    <img src="https://img.shields.io/github/followers/AveeckPandey?label=Followers&style=social" alt="GitHub Followers">
   </a>
 </p>
 
@@ -72,8 +72,14 @@
 ---
 
 ## 🐍 Contribution Snake  
-![Snake Animation](https://raw.githubusercontent.com/AveeckPandey/AveeckPandey/output/github-snake.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AveeckPandey/AveeckPandey/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AveeckPandey/AveeckPandey/output/github-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/AveeckPandey/AveeckPandey/output/github-snake.svg" />
+  </picture>
+</div>
 
 ---
 
-✨ *Last Updated on: 20/09/2025*  
+✨ *Last Updated on: 20/09/2025*
