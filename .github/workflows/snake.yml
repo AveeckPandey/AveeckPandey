@@ -14,14 +14,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate snake.svg and snake.gif
+      # Generate snake animation (SVG + GIF)
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: AveeckPandey
-          outputs: |
-            dist/snake.svg
-            dist/snake.gif
+          svg_out_path: dist/snake.svg
+          gif_out_path: dist/snake.gif
 
       # Deploy snake files to output branch
       - name: Push to output branch
