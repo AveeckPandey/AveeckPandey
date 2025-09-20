@@ -1,59 +1,61 @@
-<h1 align="center">Hi 👋, I'm Aveeck Pandey</h1>
-<h3 align="center">🚀 Full Stack Developer from India</h3>
+<p align="center">
+  <img width="200" src="https://github.com/AveeckP/AveeckP/blob/main/profile.png">
+</p>
 
----
+<h1 align="center"> Hello Fellow &lt; Developers / &gt;! 👋 </h1>
 
-### 💫 About Me
-- 🔭 Currently working on: **Conversa** – A real-time chatting app  
-- 👯 Looking to collaborate on: **Full-Stack & SaaS Projects**  
-- 🤝 Seeking help with: **System Design & Scalable Architectures**  
-- 🌱 Currently learning: **TypeScript**  
-- 💬 Ask me about: **React, Express, and Full-Stack Development**  
-- 📧 Reach me at: **aveeckkumarpandey@gmail.com**  
-- 👨‍💻 Portfolio: [My Projects](https://my-porfolio-c6og.vercel.app/)  
-- 📝 Blog: [My Articles](blog link)  
-- 📄 Resume: [View Resume](resume link)  
-- ⚡ Fun fact: *I believe coding is serious work—but I still manage to keep it fun!* 😄  
-
----
-
-### 🌐 Connect with Me  
-<p align="left">
-<a href="mailto:aveeckkumarpandey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/awickp/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://holopin.io/@aveeck_pandey"><img src="https://img.shields.io/badge/Holopin-Badges-blue?style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AveeckP&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/AveeckP?tab=followers"><img src="https://img.shields.io/github/followers/AveeckP?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
+### 👨‍💻 About Me  
+- 🔭 Currently working on **React Native Projects**  
+- 🌱 Learning **Git & Open Source Contributions**  
+- 👯 Open to collaborate on **Hackathons & Open Source**  
+- 💬 Ask me about **SQL, React, JavaScript**  
+- ⚡ Fun fact: *I love sunflowers 🌻*  
+
+---
+
+### 🚀 Skills  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,js,html,css,tailwind,mongodb,python,java,cpp,git,github,vscode,postman" />
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" title="Python"/>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" title="React"/>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" title="JavaScript"/>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg" title="SQLite"/>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" title="C++"/>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" title="C"/>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" title="HTML"/>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" title="CSS"/>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg" title="PyTorch"/>
+<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg" title="Android"/>
 </p>
 
 ---
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 🤝 Connect With Me  
+<a href="https://www.linkedin.com/in/aveeck"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
+<a href="https://twitter.com/"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a>
+<a href="https://medium.com/"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a>
+<a href="https://github.com/AveeckP"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
 
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aveeckpandey&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aveeckpandey&theme=tokyonight" alt="streak" height="180"/>
-</p>
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=AveeckP&show_icons=true&theme=tokyonight" alt="Aveeck's GitHub Stats"></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AveeckP&theme=tokyonight" alt="Aveeck's GitHub Streak"></td>
+</tr>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveeckP&theme=tokyonight" alt="Top Languages"></td>
+<td><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></td>
+</tr>
+</table>
 
 ---
 
-### 🏆 Holopin Badges  
-[![An image of @aveeck_pandey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aveeck_pandey)](https://holopin.io/@aveeck_pandey)
-
----
-
-### 📈 Top Languages  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aveeckpandey&layout=compact&theme=tokyonight" alt="languages" />
-</p>
+✨ *Last Updated on: 20/09/2025*  
