@@ -71,9 +71,7 @@
 ---
 
 ## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/AveeckP/AveeckP/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
+![Snake Animation](https://raw.githubusercontent.com/AveeckPandey/AveeckPandey/output/github-snake.svg)
 
 ---
 
